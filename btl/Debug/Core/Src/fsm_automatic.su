@@ -1,0 +1,10 @@
+../Core/Src/fsm_automatic.c:17:6:red_1_on	8	static
+../Core/Src/fsm_automatic.c:23:6:yellow_1_on	8	static
+../Core/Src/fsm_automatic.c:29:6:green_1_on	8	static
+../Core/Src/fsm_automatic.c:35:6:traffic_1_off	8	static
+../Core/Src/fsm_automatic.c:43:6:red_2_on	8	static
+../Core/Src/fsm_automatic.c:49:6:yellow_2_on	8	static
+../Core/Src/fsm_automatic.c:55:6:green_2_on	8	static
+../Core/Src/fsm_automatic.c:61:6:traffic_2_off	8	static
+../Core/Src/fsm_automatic.c:69:6:fsm_automatic_1_run	8	static
+../Core/Src/fsm_automatic.c:114:6:fsm_automatic_2_run	8	static
